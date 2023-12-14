@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Female &#8211; ColorMag</title>
+	<atom:link href="https://armstrongliwox.github.io/liwox/category/female/feed/" rel="self" type="application/rss+xml" />
+	<link>https://armstrongliwox.github.io/liwox</link>
+	<description></description>
+	<lastBuildDate>Tue, 24 Mar 2015 07:48:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://armstrongliwox.github.io/liwox/wp-content/uploads/2020/07/tg-logo.jpg</url>
+	<title>Female &#8211; ColorMag</title>
+	<link>https://armstrongliwox.github.io/liwox</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Women&#8217;s Relay Competition</title>
+		<link>https://armstrongliwox.github.io/liwox/womens-relay-competition/</link>
+					<comments>https://armstrongliwox.github.io/liwox/womens-relay-competition/#respond</comments>
+		
+		<dc:creator><![CDATA[Liwox]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2015 07:48:42 +0000</pubDate>
+				<category><![CDATA[Entertainment]]></category>
+		<category><![CDATA[Female]]></category>
+		<category><![CDATA[Health]]></category>
+		<category><![CDATA[Sports]]></category>
+		<guid isPermaLink="false">http://demo.themegrill.com/colormag/?p=85</guid>
+
+					<description><![CDATA[The young team of Franziska Hildebrand, Franziska Preuss, Vanessa Hinz and Dahlmeier clocked 1 hour, 11 minutes, 54.6 seconds to beat France]]></description>
+										<content:encoded><![CDATA[<p>The young team of Franziska Hildebrand, Franziska Preuss, Vanessa Hinz and Dahlmeier clocked 1 hour, 11 minutes, 54.6 seconds to beat France by just over 1 minute. Italy took bronze, 1:06.1 behind. </p>
+<p>Germany missed six targets overall, avoiding any laps around the penalty loop.</p>
+<p>Maria Dorin Habert of France, who has two individual gold medals at these worlds, passed Russia and France on the last leg and to take her team from fourth to second.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://armstrongliwox.github.io/liwox/womens-relay-competition/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Looks from the Roswana, 2015</title>
+		<link>https://armstrongliwox.github.io/liwox/looks-from-the-aowsana-2015/</link>
+					<comments>https://armstrongliwox.github.io/liwox/looks-from-the-aowsana-2015/#respond</comments>
+		
+		<dc:creator><![CDATA[Liwox]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2015 06:31:54 +0000</pubDate>
+				<category><![CDATA[Fashion]]></category>
+		<category><![CDATA[Female]]></category>
+		<category><![CDATA[Style]]></category>
+		<guid isPermaLink="false">http://demo.themegrill.com/colormag/?p=70</guid>
+
+					<description><![CDATA[For Joesendra, this is only her second fashion week showing, following her presentation at a Fashion World on this January.]]></description>
+										<content:encoded><![CDATA[<p>For Joesendra, this is only her second fashion week showing, following her presentation at a Fashion World  on this January. It was meant to be about getting back out there and doing it on its own over Street Market in New York and London, as well as IT Hong Kong, approached her about orders.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://armstrongliwox.github.io/liwox/looks-from-the-aowsana-2015/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

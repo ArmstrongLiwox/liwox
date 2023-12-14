@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TOP STORIES &#8211; ColorMag</title>
+	<atom:link href="https://armstrongliwox.github.io/liwox/category/top-stories/feed/" rel="self" type="application/rss+xml" />
+	<link>https://armstrongliwox.github.io/liwox</link>
+	<description></description>
+	<lastBuildDate>Tue, 24 Mar 2015 07:07:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://armstrongliwox.github.io/liwox/wp-content/uploads/2020/07/tg-logo.jpg</url>
+	<title>TOP STORIES &#8211; ColorMag</title>
+	<link>https://armstrongliwox.github.io/liwox</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Smith Handed His Place in History</title>
+		<link>https://armstrongliwox.github.io/liwox/smith-handed-his-place-in-history/</link>
+					<comments>https://armstrongliwox.github.io/liwox/smith-handed-his-place-in-history/#respond</comments>
+		
+		<dc:creator><![CDATA[Liwox]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2015 07:07:18 +0000</pubDate>
+				<category><![CDATA[Entertainment]]></category>
+		<category><![CDATA[Sports]]></category>
+		<category><![CDATA[TOP STORIES]]></category>
+		<guid isPermaLink="false">http://demo.themegrill.com/colormag/?p=82</guid>
+
+					<description><![CDATA[Ut dictum ligula nisi, at mollis mi sagittis eu. Fusce vitae turpis placerat magna pellentesque pharetra vel et enim. Phasellus]]></description>
+										<content:encoded><![CDATA[<p>Ut dictum ligula nisi, at mollis mi sagittis eu. Fusce vitae turpis placerat magna pellentesque pharetra vel et enim. Phasellus aliquam id metus a luctus. Etiam euismod enim id imperdiet dictum. Aenean porttitor ex eu velit mattis, id tempus leo blandit. Nullam rutrum congue magna quis scelerisque. Fusce venenatis ante sed metus auctor, eget facilisis ligula faucibus. Maecenas mattis, felis quis vulputate rutrum, ipsum eros maximus risus, ut aliquam sem nisi pharetra augue. Ut aliquet orci sed urna mattis, tempor auctor odio sodales. Donec ullamcorper dapibus lacus. Integer nulla velit, ornare et odio id, tincidunt efficitur quam. Nunc id metus sodales, tristique quam sed, commodo velit. Aenean lacinia turpis turpis, vel varius neque congue vitae. Donec ultrices lobortis rutrum. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://armstrongliwox.github.io/liwox/smith-handed-his-place-in-history/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

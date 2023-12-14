@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WordPress &#8211; ColorMag</title>
+	<atom:link href="https://armstrongliwox.github.io/liwox/category/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>https://armstrongliwox.github.io/liwox</link>
+	<description></description>
+	<lastBuildDate>Fri, 13 Mar 2015 11:38:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://armstrongliwox.github.io/liwox/wp-content/uploads/2020/07/tg-logo.jpg</url>
+	<title>WordPress &#8211; ColorMag</title>
+	<link>https://armstrongliwox.github.io/liwox</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Quisque nec</title>
+		<link>https://armstrongliwox.github.io/liwox/quisque-nec/</link>
+					<comments>https://armstrongliwox.github.io/liwox/quisque-nec/#respond</comments>
+		
+		<dc:creator><![CDATA[Liwox]]></dc:creator>
+		<pubDate>Fri, 13 Mar 2015 11:38:52 +0000</pubDate>
+				<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">http://demo.themegrill.com/colormag/?p=13</guid>
+
+					<description><![CDATA[Quisque nec viverra dui. Duis dolor purus, venenatis ac lacus id, pellentesque lacinia lectus. Nulla sed lectus condimentum, aliquam eros]]></description>
+										<content:encoded><![CDATA[<p>Quisque nec viverra dui. Duis dolor purus, venenatis ac lacus id, pellentesque lacinia lectus. Nulla sed lectus condimentum, aliquam eros sit amet, vulputate nisl. Maecenas sit amet hendrerit nibh. Duis mattis metus orci, feugiat feugiat nisl mattis ac. Vivamus bibendum dapibus congue. Morbi quis turpis eget augue hendrerit venenatis. Maecenas ut pulvinar mi. Ut dictum auctor diam, at faucibus lacus condimentum vitae. Nunc at consectetur odio. Vestibulum vel leo ullamcorper, dictum nibh dictum, maximus lorem.</p>
+<p>Morbi vitae porta felis. Etiam aliquet ex nisi, nec feugiat enim condimentum quis. Aliquam consequat est eget odio sollicitudin sagittis. Nulla porta ultrices nibh, at bibendum libero pellentesque eu. Duis ac aliquet magna. Sed malesuada luctus nisi et ullamcorper. Vestibulum tempus ornare eros ultricies fringilla. Integer rhoncus arcu quis neque condimentum faucibus. Nulla sollicitudin ultrices aliquam. Etiam ligula velit, commodo eget ultrices ac, tempor non libero. Fusce ut libero a mi dapibus aliquam et eget est. Sed blandit tellus vitae ex placerat pretium.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://armstrongliwox.github.io/liwox/quisque-nec/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
